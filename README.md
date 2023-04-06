@@ -1,2 +1,2 @@
 # AI-Studies
-Personal studies in AI field
+Personal studies in Machine Learning
